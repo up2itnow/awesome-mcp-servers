@@ -126,6 +126,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
+- [clawpay-mcp](https://github.com/up2itnow/clawpay-mcp) 💰 🔒 🏠 - Non-custodial x402 MCP payment layer for AI agents. Agents sign payments locally with no custodial infrastructure required.
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
